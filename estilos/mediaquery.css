@@ -7,17 +7,18 @@
     section#login {
         width: 80vw;
     }
+
         
     secti#login > div#formulario {
-        float: right;
+         float: right;
          width: 50%; 
-         height: 100%;
+         height: 50%;
     }
 
     section#login > div#imagens {
-        float: left;
-        width: 50%;
-        height: 100%;
+        float: inherit;
+        width: 100%;
+        height: 45%;
     }
 
 }
